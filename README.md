@@ -1,5 +1,6 @@
 # Setup
 ```
+docker --version > _docker_version
 docker-compose --version > _compose_version
 docker-compose build
 docker-compose up -d
