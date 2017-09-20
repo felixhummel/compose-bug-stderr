@@ -1,0 +1,8 @@
+#!/bin/sh
+# I am a long-running process. I could be a web-server, if I really wanted to.
+
+echo started
+while true; do
+  date
+  sleep 2
+done
