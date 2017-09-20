@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo stdout
-echo stderr >&2
+echo 'Hello stdout!'
+echo 'Hello stderr!' >&2
